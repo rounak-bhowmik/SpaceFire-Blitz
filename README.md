@@ -1,3 +1,7 @@
+Please Go to [spacefire-blitz](https://rounak-bhowmik.github.io/spacefire-blitz) to play the game on browser.
+
+It might take a while to load the game on web, so please wait a little bit.
+
 ![Screenshot1](https://i.ibb.co/FD6Qrtx/image-2024-02-11-083206504.png)
 # SpaceFire-Blitz
 A game about shooting Planets in Space made for SBUHacks VI
